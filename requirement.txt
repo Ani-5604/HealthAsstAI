@@ -1,6 +1,6 @@
-tensorflow
-streamlit
 transformers
+streamlit
+tensorflow
 tf-keras
 nltk
 
