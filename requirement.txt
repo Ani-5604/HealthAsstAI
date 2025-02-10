@@ -1,8 +1,5 @@
 python==3.8
 transformers
-
-streamlit
-transformers
 streamlit
 tensorflow
 tf-keras
